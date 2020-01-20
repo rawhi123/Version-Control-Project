@@ -1,5 +1,5 @@
-### Version-Control-Project
-#############################
+# Version-Control-Project
+
 ### Date created
 18th January, 2020
 
